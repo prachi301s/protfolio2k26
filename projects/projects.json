@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ZoomCar Clone",
+    "desc": "",
+    "image": "zoomclone",
+    "category": "android",
+    "links": {
+      "view": "https://zoomcar-beige.vercel.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Grocery Store",
+    "desc": "E-commerce website",
+    "image": "ecommerceProject",
+    "category": "android",
+    "links": {
+      "view": "https://abhik8461.github.io/fruitables/index.html",
+      "code": ""
+    }
+  },
+  {
+    "name": "CRM Website",
+    "desc": "CRM website",
+    "image": "crm",
+    "category": "android",
+    "links": {
+      "view": "https://crm-website-ten.vercel.app/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Real Estate Property website",
+    "desc": "Real-Estate website",
+    "image": "real estate",
+    "category": "android",
+    "links": {
+      "view": "https://nextflat.ch/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Admin Dashboard",
+    "desc": "Design Admin Dashboard for Real estate Property website",
+    "image": "adminImg",
+    "category": "android",
+    "links": {
+      "view": "https://admin-panel-two-pied.vercel.app/",
+      "code": ""
+    }
+  }
+]
