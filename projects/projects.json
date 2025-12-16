@@ -32,7 +32,7 @@
   {
     "name": "Real Estate Property website",
     "desc": "Real-Estate website",
-    "image": "real estate",
+    "image": "realestate",
     "category": "android",
     "links": {
       "view": "https://nextflat.ch/",
@@ -42,7 +42,7 @@
   {
     "name": "Admin Dashboard",
     "desc": "Design Admin Dashboard for Real estate Property website",
-    "image": "adminImg",
+    "image": "adminImg1",
     "category": "android",
     "links": {
       "view": "https://admin-panel-two-pied.vercel.app/",
