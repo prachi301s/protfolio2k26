@@ -49,14 +49,4 @@
       "code": ""
     }
   }
-  {
-    "name": "Business website",
-    "desc": "Design a Business website",
-    "image": "image1",
-    "category": "android",
-    "links": {
-      "view": "https://planetzerone-3dzu.vercel.app/",
-      "code": ""
-    }
-  }
 ]

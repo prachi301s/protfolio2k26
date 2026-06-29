@@ -202,7 +202,12 @@ const srtop = ScrollReveal({
     reset: true
 });
 
-/* SCROLL HOME — hero uses CSS entrance animations */
+/* SCROLL HOME */
+srtop.reveal('.home .content h3', { delay: 200 });
+srtop.reveal('.home .content p', { delay: 200 });
+srtop.reveal('.home .content .btn', { delay: 200 });
+
+srtop.reveal('.home .image', { delay: 400 });
 srtop.reveal('.home .linkedin', { interval: 600 });
 srtop.reveal('.home .github', { interval: 800 });
 srtop.reveal('.home .twitter', { interval: 1000 });
